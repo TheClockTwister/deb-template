@@ -1,0 +1,8 @@
+Package: mypackage
+Version: 1.0
+Architecture: all
+Essential: no
+Priority: optional
+Depends: htop,bmon,ncdu,pv
+Maintainer: Your Name
+Description: A short description of my-program that will be displayed when the package is being selected for installation.
